@@ -1,1 +1,3 @@
-# checkbox-dbms-project
+This is an attendance management system created using html ,css,bootstrap for the frontend and mysql as database and php in the backend . 
+Any tutor/mentor/teacher can join with us with his mail id and can create any no.og classes he/she wants and can keep record of list of students in this format rollno/coursecode/year and can mark the attendance status of the student with buttons displayed against student id . The teacher can also view the attendance status of a student graphically and can download average class attendance in pdf/image format . 
+Students can check their attendance status by entering their roll no ,course code and year details and can download his/her attendnace status. 
